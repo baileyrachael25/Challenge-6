@@ -1,8 +1,7 @@
-## Title
-Weather Dashboard
+## Weather Dashboard
 
 ## Description
-
+A weather application built using html, css, bootstrap, javascript and the OpenWeather One Call API https://openweathermap.org/api/one-call-api.
 
 ## Table of Contents
 - [Screenshot of Deployed Application](#deployed)
